@@ -1,0 +1,8 @@
+[package]
+name = "mre-bug-ios"
+version = "0.1.0"
+edition = "2021"
+description = "bug"
+
+[dependencies]
+rand = "0.8.5"
